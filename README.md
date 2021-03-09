@@ -32,7 +32,6 @@ Substituting into the governing equation and solving for C_{CL}(x) gives the fol
 C_CL (x)=c_r (0)∙e^(-2β)+(c_in-c_r (0)∙e^(-2β))/e^(-2L√γ)  [e^(-2L√γ) e^(x√γ)+e^(-x√γ) ]
 β=αzF/RT η
 γ=(a_v i_0)/(nFD_CL^eff ) e^β
-![image](https://user-images.githubusercontent.com/66338258/110432383-e3638580-8063-11eb-9ca6-ebd872127702.png)
 
 
 Full report:
