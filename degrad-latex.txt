@@ -1,0 +1,43 @@
+\begin{center}
+\text{Anode: } $ H_{2} \rightarrow 2H^+ + 2e^- $ \\
+\text{Cathode: } $ \frac{1}{2} O_{2} + 2e^- + 2H^+ \rightarrow H_2 O $ \\
+\end{center}
+
+J = -D \frac{\partial c}{\partial x} \\
+
+\begin{tabular}{ c c c }
+ $J$ & diffusive flux & $\frac{mol}{m^2*s}$ \\ 
+ $D$ & diffusivity coefficient & $m^2/s$ \\
+ $c$ & concentration & $mol/m^3$ \\
+ $c_{feed}$ & concentration of inlet hydrogen feed & 1000ppm $H_2$ in Ar \\
+ $R$ & resistance & Ohms\\
+ $F$ & Faraday’s constant & 96485 $\frac{C}{\text{mol }e^-}$ \\
+ $T$ & temperature & $353.15 K$ \\
+ $x$ & position along axis of thickness of CL & $m$ \\
+ $c_{CL}$ & concentration of hydrogen gas in CL & $mol/m^3$ \\
+ $i(x)$ & position-dependent charge density & $C/m^3$ \\
+ $i_{0}$ & exchange current density & $2*10^{-4} \frac{A}{m}$ \\
+ $n$ & number of electrons involved in reaction & 2\\ 
+ $E$ & effective potential & V\\
+ $E_{eq}$ & equilibrium potential & $0.0 V$\\
+ $c_{H_2}$ & $=c_{CL}$ concentration of hydrogen gas & $1100 mol/m^3$\\
+ $c_{H_2}^*$ & reference concentration of hydrogen gas & $1 mol/m^3$\\
+ $c_{H^+}$ & concentration of protons & $1100 mol/m^3$\\
+ $c_{H^+}^*$ & reference concentration of protons & $1 mol/m^3$\\
+ $a_{v}$ & effective active Pt area per volume agglomerate & $\frac{m^2_Pt}{m^3_ {CL}}$\\
+ $\alpha$ & dimensionless charge transfer coefficient & $0.5$\\
+ $L_{Pt}$ & Pt loading & $0.2 \frac{\text{mg Pt}}{cm^2}$ \\
+ $A_{agg}$ & effective Pt surface area per gram Pt & $40 \frac{cm^2}{\text{mg Pt}}$ \\
+ $R_{agg}$ & radius of the agglomerate sphere & $0.1*10^{-6} m$\\
+ $\delta_f$ & radial thickness of ionomer thin film & $20*10^{-9} m$\\
+ $\ell_{CL}$ & CL thickness & $15*10^{-6} m$ \\
+ $D^{eff}_{CL}$ & effective diffusivity of CL & $2.3*10^{-5} \frac{cm^2}{s}$ \\
+ $D_{agg}$ & diffusivity of agglomerate & $8.45*10^{-10} \frac{cm^2}{s}$ \\
+ $D_f$ & diffusivity of ionomer thin film & $0.5*10^{-5} \frac{cm^2}{s}$ \\
+ $\eta$ & local overpotential & V\\
+ $\varepsilon$ & ionomer content fraction in agglomerate & $0.5 \frac{\text{avg vol ionomer}}{\text{vol agglomerate}}$\\
+ $V^*$ & volumetric ratio of agglomerate in CL & $0.4$ \\
+ $\Phi$ & Thiele modulus \\
+ $S$ & solubility coefficient of hydrogen into water & $1.6 \frac{mol_{H_2}}{\text{kg water}}$ \\
+ $\beta, \gamma, \Omega, \zeta$ & constants \\
+\end{tabular}
